@@ -99,3 +99,4 @@ INFO:     127.0.0.1:49668 - "GET /api/analyses/4 HTTP/1.1" 200 OK
 INFO:     127.0.0.1:49668 - "GET /api/analyses/4/files/original?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiaWF0IjoxNzk0NDA5NTkxLCJleHAiOjE3OTQ0NTI3OTF9.fF9zeazYwx8Mstc6l2N6wRRm2mVpkAkLBfptWonEU0o HTTP/1.1" 200 OK
 INFO:     127.0.0.1:49668 - "GET /api/analyses/4/files/segmentation?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiaWF0IjoxNzk0NDA5NTkxLCJleHAiOjE3OTQ0NTI3OTF9.fF9zeazYwx8Mstc6l2N6wRRm2mVpkAkLBfptWonEU0o HTTP/1.1" 200 OK
 INFO:     127.0.0.1:60358 - "GET /api/analyses/4/files/zones.csv?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiaWF0IjoxNzk0NDA5NTkxLCJleHAiOjE3OTQ0NTI3OTF9.fF9zeazYwx8Mstc6l2N6wRRm2mVpkAkLBfptWonEU0o HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49705 - "GET /fields HTTP/1.1" 200 OK
